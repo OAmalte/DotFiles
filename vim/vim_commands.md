@@ -1,10 +1,15 @@
 Show Line Number
+
 :set numbers
 
+
 Show File Explorer
+
 :set Vexplorer
 
+
 Buffers:
+
 :ls     Show buffer
 
 :bn     Next Buffer
