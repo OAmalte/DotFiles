@@ -1,7 +1,11 @@
 " Enabling filetype support provides filetype-specific indenting,
 " syntax highlighting, omni-completion and other useful settings.
 filetype plugin indent on
-syntax on
+let g:solarized_termcolors=256
+set t_Co=256
+syntax enable
+set background=dark
+colorscheme solarized
 
 " `matchit.vim` is built-in so let's enable it!
 " Hit `%` on `if` to jump to `else`.
@@ -16,3 +20,7 @@ set ruler                      " Shows the current line number at the bottom-rig
                                " of the screen.
 set wildmenu                   " Great command-line completion, use `<Tab>` to move
                                " around and `<CR>` to validate.
+
+
+
+
