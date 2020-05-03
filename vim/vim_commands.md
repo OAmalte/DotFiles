@@ -7,6 +7,7 @@ Show File Explorer
 
 :set Vexplorer
 
+<ctrl> + w AND w    Switch between Explorer and editor
 
 Buffers:
 
