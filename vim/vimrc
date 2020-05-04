@@ -21,6 +21,7 @@ set incsearch          " Incremental search
 set hlsearch           " highlight searches
 set autowrite          " Automatically save before commands like :next & :make
 set autoindent                 " Minimal automatic indenting for any filetype.
+set pastetoggle=<F3>           " Toggles pastemode
 set hidden                     " Possibility to have more than one unsaved buffers.
 set ruler                      " Shows the current line number at the bottom-right of the screen.
 set wildmenu                   " Great command-line completion, use `<Tab>` to move around and `<CR>` to validate.
