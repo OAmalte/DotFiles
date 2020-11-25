@@ -2,6 +2,7 @@ Rename vimrc to .vimrc and copy to ~
 
 
 color:
+
 mkdir p ~/.vim/colors
 
 cd ~/.vim/colors
