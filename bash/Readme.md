@@ -1,2 +1,2 @@
-# My Bash customization #
+# My Bash customizations #
 
